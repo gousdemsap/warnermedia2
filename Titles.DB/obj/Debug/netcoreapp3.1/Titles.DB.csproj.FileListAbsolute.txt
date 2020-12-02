@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Titles.WebApi\Titles.DB\bin\Debug\netcoreapp3.1\Titles.DB.deps.json
+C:\Users\User\source\repos\Titles.WebApi\Titles.DB\bin\Debug\netcoreapp3.1\Titles.DB.dll
+C:\Users\User\source\repos\Titles.WebApi\Titles.DB\obj\Debug\netcoreapp3.1\Titles.DB.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Titles.WebApi\Titles.DB\obj\Debug\netcoreapp3.1\Titles.DB.AssemblyInfo.cs
+C:\Users\User\source\repos\Titles.WebApi\Titles.DB\obj\Debug\netcoreapp3.1\Titles.DB.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Titles.WebApi\Titles.DB\bin\Debug\netcoreapp3.1\Titles.DB.runtimeconfig.json
+C:\Users\User\source\repos\Titles.WebApi\Titles.DB\bin\Debug\netcoreapp3.1\Titles.DB.runtimeconfig.dev.json
+C:\Users\User\source\repos\Titles.WebApi\Titles.DB\bin\Debug\netcoreapp3.1\Titles.DB.pdb
+C:\Users\User\source\repos\Titles.WebApi\Titles.DB\obj\Debug\netcoreapp3.1\Titles.DB.dll
+C:\Users\User\source\repos\Titles.WebApi\Titles.DB\obj\Debug\netcoreapp3.1\Titles.DB.pdb
+C:\Users\User\source\repos\Titles.WebApi\Titles.DB\obj\Debug\netcoreapp3.1\Titles.DB.genruntimeconfig.cache
+C:\Users\User\source\repos\Titles.WebApi\Titles.DB\obj\Debug\netcoreapp3.1\Titles.DB.csproj.CoreCompileInputs.cache
